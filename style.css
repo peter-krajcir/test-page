@@ -5,13 +5,13 @@
 	font-size: 52px;
 }
 div {
-	border: 1px solid black;
+	border: 10px solid black;
 }
 .app {
 	display: flex;
 }
 .screenshot {
-	max-width: 460px;
+	max-width: 560px;
 }
 .description {
 	color: red;
@@ -19,4 +19,5 @@ div {
 }
 .new-class {
 	font-size:20px;
+	max-width: 920px;
 }
